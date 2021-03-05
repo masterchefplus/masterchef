@@ -1,11 +1,12 @@
 {
-  "short_name": "SushiSwap",
-  "name": "Farm SUSHI with Uniswap LP Tokens",
+  "short_name": "Goose Finance",
+  "name": "Goose Finance",
+  "description": "Farm EGG with LP Tokens",
   "icons": [
     {
-      "src": "favicon.png",
-      "type": "image/png",
-      "sizes": "240x240"
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
     }
   ],
   "start_url": ".",
