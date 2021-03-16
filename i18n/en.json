@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn Rock"
+        "text": "Stake LP tokens to earn Egg"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Rock, get SYRUP."
+        "text": "Stake Egg, get SYRUP."
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Rock price"
+        "text": "Egg price"
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "Rock prizes to be claimed"
+        "text": "Egg prizes to be claimed"
       }
     },
     {
@@ -543,7 +543,7 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve Rock"
+        "text": "Approve Egg"
       }
     },
     {
@@ -567,13 +567,13 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using Rock-BNB LP tokens, which means you need to stake equal amounts of Rock and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using Egg-BNB LP tokens, which means you need to stake equal amounts of Egg and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get Rock-BNB LP >"
+        "text": "Get Egg-BNB LP >"
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Rock Stats"
+        "text": "Egg Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New Rock\/block"
+        "text": "New Egg\/block"
       }
     },
     {
@@ -675,13 +675,13 @@
     {
       "data": {
         "stringId": 544,
-        "text": "Rock to Harvest"
+        "text": "Egg to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "Rock in Wallet"
+        "text": "Egg in Wallet"
       }
     },
     {
@@ -753,7 +753,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Rock Finance"
+        "text": "Egg Finance"
       }
     },
     {
